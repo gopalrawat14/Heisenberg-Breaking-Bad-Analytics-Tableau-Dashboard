@@ -55,6 +55,10 @@ Using Tableau, I transformed raw episode data into an **interactive dashboard** 
 |   Sunburst (Duration x Season) | Episode Details      |
  --------------------------------------------------------
 
+```
+
+---
+
 ## 💡 Key Insights
 - 📊 **Viewership grew** steadily, peaking in later seasons  
 - ⭐ **Season 5 dominates IMDb ratings** with multiple 9.5+ episodes  
