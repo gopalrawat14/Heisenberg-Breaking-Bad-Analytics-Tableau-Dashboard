@@ -54,3 +54,56 @@ Using Tableau, I transformed raw episode data into an **interactive dashboard** 
 |--------------------------------------------------------|
 |   Sunburst (Duration x Season) | Episode Details      |
  --------------------------------------------------------
+
+## 💡 Key Insights
+- 📊 **Viewership grew** steadily, peaking in later seasons  
+- ⭐ **Season 5 dominates IMDb ratings** with multiple 9.5+ episodes  
+- 🎥 **Michael Slovis & Adam Bernstein** are the most frequent directors  
+- 🕒 **Episode runtimes** average ~45–47 minutes, finales are longer than premieres  
+
+---
+
+## 🚀 How to Use
+1. Open the [Dashboard Link](https://public.tableau.com/app/profile/gopal.rawat3522/viz/BreakingBad_17424111525660/Dashboard1)  
+2. Use the **Episode Title filter** at the top to switch between episodes  
+3. Hover over visuals for interactive details  
+
+---
+
+## 🛠️ Tech Stack
+- **Tool:** Tableau Public  
+- **Dataset:** CSV (cleaned & pre-processed)  
+- **Design:** Custom palette, Breaking Bad visuals, typography tweaks  
+
+---
+
+SayMyData/
+│
+├── data/
+│   └── breaking_bad_dataset.csv      # Source dataset
+│
+├── dashboard/
+│   └── breaking_bad_dashboard.twbx   # Tableau workbook
+│
+├── assets/
+│   ├── breaking_bad_logo.png
+│   └── dashboard_preview.png
+│
+└── README.md                         # This file
+
+
+## 🤝 Connect with Me
+- 💼 [LinkedIn](https://www.linkedin.com/in/gopalrawat/)  
+- 📧 gopalrawwatt@gmail.com  
+- ⭐ If you liked this project, **star the repo** — it means a lot!  
+
+---
+
+## ✨ Why This Repo is Different
+Most Tableau repos just drop a workbook or link.  
+This one is designed as a **storytelling artifact**:  
+- ASCII wireframe for structure clarity  
+- Episode-level insights (not just charts)  
+- Thematic branding (“Say My Data”) aligned with Breaking Bad’s iconic lines  
+
+It’s not just a dashboard — it’s **data cooked the Heisenberg way**.  
