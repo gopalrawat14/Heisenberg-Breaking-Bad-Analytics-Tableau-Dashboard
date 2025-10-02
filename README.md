@@ -84,14 +84,14 @@ Using Tableau, I transformed raw episode data into an **interactive dashboard** 
 SayMyData/
 │
 ├── data/
-│   └── breaking_bad_dataset.csv      # Source dataset
+│   └── Dataset.csv      # Source dataset
 │
 ├── dashboard/
-│   └── breaking_bad_dashboard.twbx   # Tableau workbook
+│   └── Breaking Bad.twbx   # Tableau workbook
 │
-├── assets/
-│   ├── breaking_bad_logo.png
-│   └── dashboard_preview.png
+├── images/
+│   ├── logo.png
+│   └── walter white.png
 │
 └── README.md                         # This file
 
